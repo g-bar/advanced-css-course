@@ -1,0 +1,692 @@
+/*! 
+* @package IcoFont 
+* @version 1.0.1 
+* @author IcoFont https://icofont.com 
+* @copyright Copyright (c) 2015 - 2019 IcoFont 
+* @license - https://icofont.com/license/
+*/
+
+@font-face
+{
+ 
+  font-family: "IcoFont";
+font-weight: normal;
+font-style: "Regular";
+src: url("./fonts/icofont.woff2") format("woff2"),
+url("./fonts/icofont.woff") format("woff");
+}
+
+[class^="icon-font-"], [class*=" icon-font-"]
+{
+  font-family: 'IcoFont' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  line-height: 1;
+/* Better Font Rendering =========== */
+  -webkit-font-feature-settings: "liga";
+  -webkit-font-smoothing: antialiased;
+}
+
+.icon-font-badminton-birdie:before
+{
+  content: "\ed8d";
+}
+
+.icon-font-baseball:before
+{
+  content: "\ed8e";
+}
+
+.icon-font-baseballer:before
+{
+  content: "\ed8f";
+}
+
+.icon-font-basketball-hoop:before
+{
+  content: "\ed90";
+}
+
+.icon-font-basketball:before
+{
+  content: "\ed91";
+}
+
+.icon-font-billiard-ball:before
+{
+  content: "\ed92";
+}
+
+.icon-font-boot-alt-1:before
+{
+  content: "\ed93";
+}
+
+.icon-font-boot-alt-2:before
+{
+  content: "\ed94";
+}
+
+.icon-font-boot:before
+{
+  content: "\ed95";
+}
+
+.icon-font-bowling-alt:before
+{
+  content: "\ed96";
+}
+
+.icon-font-bowling:before
+{
+  content: "\ed97";
+}
+
+.icon-font-canoe:before
+{
+  content: "\ed98";
+}
+
+.icon-font-cheer-leader:before
+{
+  content: "\ed99";
+}
+
+.icon-font-climbing:before
+{
+  content: "\ed9a";
+}
+
+.icon-font-corner:before
+{
+  content: "\ed9b";
+}
+
+.icon-font-field-alt:before
+{
+  content: "\ed9c";
+}
+
+.icon-font-field:before
+{
+  content: "\ed9d";
+}
+
+.icon-font-football-alt:before
+{
+  content: "\ed9e";
+}
+
+.icon-font-football-american:before
+{
+  content: "\ed9f";
+}
+
+.icon-font-football:before
+{
+  content: "\eda0";
+}
+
+.icon-font-foul:before
+{
+  content: "\eda1";
+}
+
+.icon-font-goal-keeper:before
+{
+  content: "\eda2";
+}
+
+.icon-font-goal:before
+{
+  content: "\eda3";
+}
+
+.icon-font-golf-alt:before
+{
+  content: "\eda4";
+}
+
+.icon-font-golf-bag:before
+{
+  content: "\eda5";
+}
+
+.icon-font-golf-cart:before
+{
+  content: "\eda6";
+}
+
+.icon-font-golf-field:before
+{
+  content: "\eda7";
+}
+
+.icon-font-golf:before
+{
+  content: "\eda8";
+}
+
+.icon-font-golfer:before
+{
+  content: "\eda9";
+}
+
+.icon-font-helmet:before
+{
+  content: "\edaa";
+}
+
+.icon-font-hockey-alt:before
+{
+  content: "\edab";
+}
+
+.icon-font-hockey:before
+{
+  content: "\edac";
+}
+
+.icon-font-ice-skate:before
+{
+  content: "\edad";
+}
+
+.icon-font-jersey-alt:before
+{
+  content: "\edae";
+}
+
+.icon-font-jersey:before
+{
+  content: "\edaf";
+}
+
+.icon-font-jumping:before
+{
+  content: "\edb0";
+}
+
+.icon-font-kick:before
+{
+  content: "\edb1";
+}
+
+.icon-font-leg:before
+{
+  content: "\edb2";
+}
+
+.icon-font-match-review:before
+{
+  content: "\edb3";
+}
+
+.icon-font-medal-sport:before
+{
+  content: "\edb4";
+}
+
+.icon-font-offside:before
+{
+  content: "\edb5";
+}
+
+.icon-font-olympic-logo:before
+{
+  content: "\edb6";
+}
+
+.icon-font-olympic:before
+{
+  content: "\edb7";
+}
+
+.icon-font-padding:before
+{
+  content: "\edb8";
+}
+
+.icon-font-penalty-card:before
+{
+  content: "\edb9";
+}
+
+.icon-font-racer:before
+{
+  content: "\edba";
+}
+
+.icon-font-racing-car:before
+{
+  content: "\edbb";
+}
+
+.icon-font-racing-flag-alt:before
+{
+  content: "\edbc";
+}
+
+.icon-font-racing-flag:before
+{
+  content: "\edbd";
+}
+
+.icon-font-racings-wheel:before
+{
+  content: "\edbe";
+}
+
+.icon-font-referee:before
+{
+  content: "\edbf";
+}
+
+.icon-font-refree-jersey:before
+{
+  content: "\edc0";
+}
+
+.icon-font-result-sport:before
+{
+  content: "\edc1";
+}
+
+.icon-font-rugby-ball:before
+{
+  content: "\edc2";
+}
+
+.icon-font-rugby-player:before
+{
+  content: "\edc3";
+}
+
+.icon-font-rugby:before
+{
+  content: "\edc4";
+}
+
+.icon-font-runner-alt-1:before
+{
+  content: "\edc5";
+}
+
+.icon-font-runner-alt-2:before
+{
+  content: "\edc6";
+}
+
+.icon-font-runner:before
+{
+  content: "\edc7";
+}
+
+.icon-font-score-board:before
+{
+  content: "\edc8";
+}
+
+.icon-font-skiing-man:before
+{
+  content: "\edc9";
+}
+
+.icon-font-skydiving-goggles:before
+{
+  content: "\edca";
+}
+
+.icon-font-snow-mobile:before
+{
+  content: "\edcb";
+}
+
+.icon-font-steering:before
+{
+  content: "\edcc";
+}
+
+.icon-font-stopwatch:before
+{
+  content: "\edcd";
+}
+
+.icon-font-substitute:before
+{
+  content: "\edce";
+}
+
+.icon-font-swimmer:before
+{
+  content: "\edcf";
+}
+
+.icon-font-table-tennis:before
+{
+  content: "\edd0";
+}
+
+.icon-font-team-alt:before
+{
+  content: "\edd1";
+}
+
+.icon-font-team:before
+{
+  content: "\edd2";
+}
+
+.icon-font-tennis-player:before
+{
+  content: "\edd3";
+}
+
+.icon-font-tennis:before
+{
+  content: "\edd4";
+}
+
+.icon-font-tracking:before
+{
+  content: "\edd5";
+}
+
+.icon-font-trophy-alt:before
+{
+  content: "\edd6";
+}
+
+.icon-font-trophy:before
+{
+  content: "\edd7";
+}
+
+.icon-font-volleyball-alt:before
+{
+  content: "\edd8";
+}
+
+.icon-font-volleyball-fire:before
+{
+  content: "\edd9";
+}
+
+.icon-font-volleyball:before
+{
+  content: "\edda";
+}
+
+.icon-font-water-bottle:before
+{
+  content: "\eddb";
+}
+
+.icon-font-whistle-alt:before
+{
+  content: "\eddc";
+}
+
+.icon-font-whistle:before
+{
+  content: "\eddd";
+}
+
+.icon-font-win-trophy:before
+{
+  content: "\edde";
+}
+
+.icon-font-xs
+{
+  font-size: .5em;
+}
+
+.icon-font-sm
+{
+  font-size: .75em;
+}
+
+.icon-font-md
+{
+  font-size: 1.25em;
+}
+
+.icon-font-lg
+{
+  font-size: 1.5em;
+}
+
+.icon-font-1x
+{
+  font-size: 1em;
+}
+
+.icon-font-2x
+{
+  font-size: 2em;
+}
+
+.icon-font-3x
+{
+  font-size: 3em;
+}
+
+.icon-font-4x
+{
+  font-size: 4em;
+}
+
+.icon-font-5x
+{
+  font-size: 5em;
+}
+
+.icon-font-6x
+{
+  font-size: 6em;
+}
+
+.icon-font-7x
+{
+  font-size: 7em;
+}
+
+.icon-font-8x
+{
+  font-size: 8em;
+}
+
+.icon-font-9x
+{
+  font-size: 9em;
+}
+
+.icon-font-10x
+{
+  font-size: 10em;
+}
+
+.icon-font-fw
+{
+  text-align: center;
+  width: 1.25em;
+}
+
+.icon-font-ul
+{
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.icon-font-ul > li
+{
+  position: relative;
+  line-height: 2em;
+}
+
+.icon-font-ul > li .icon-font
+{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.icon-font-border
+{
+  border: solid 0.08em #f1f1f1;
+  border-radius: .1em;
+  padding: .2em .25em .15em;
+}
+
+.icon-font-pull-left
+{
+  float: left;
+}
+
+.icon-font-pull-right
+{
+  float: right;
+}
+
+.icon-font.icon-font-pull-left
+{
+  margin-right: .3em;
+}
+
+.icon-font.icon-font-pull-right
+{
+  margin-left: .3em;
+}
+
+.icon-font-spin
+{
+  -webkit-animation: icofont-spin 2s infinite linear;
+  animation: icofont-spin 2s infinite linear;
+  display: inline-block;
+}
+
+.icon-font-pulse
+{
+  -webkit-animation: icofont-spin 1s infinite steps(8);
+  animation: icofont-spin 1s infinite steps(8);
+  display: inline-block;
+}
+
+@-webkit-keyframes icofont-spin
+{
+  0%
+  {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100%
+  {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes icofont-spin
+{
+  0%
+  {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100%
+  {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+.icon-font-rotate-90
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+
+.icon-font-rotate-180
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.icon-font-rotate-270
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+  -webkit-transform: rotate(270deg);
+  transform: rotate(270deg);
+}
+
+.icon-font-flip-horizontal
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)";
+  -webkit-transform: scale(-1, 1);
+  transform: scale(-1, 1);
+}
+
+.icon-font-flip-vertical
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(1, -1);
+  transform: scale(1, -1);
+}
+
+.icon-font-flip-horizontal.icon-font-flip-vertical
+{
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=2, mirror=1)";
+  -webkit-transform: scale(-1, -1);
+  transform: scale(-1, -1);
+}
+
+:root .icon-font-rotate-90,
+	:root .icon-font-rotate-180,
+	:root .icon-font-rotate-270,
+	:root .icon-font-flip-horizontal,
+	:root .icon-font-flip-vertical
+{
+  -webkit-filter: none;
+  filter: none;
+  display: inline-block;
+}
+
+.icon-font-inverse
+{
+  color: #fff;
+}
+
+.sr-only
+{
+  border: 0;
+  clip: rect(0, 0, 0, 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.sr-only-focusable:active,
+	.sr-only-focusable:focus
+{
+  clip: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+}
+	

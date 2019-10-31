@@ -1,0 +1,24 @@
+{
+  "name": "advanced-css-course",
+  "version": "1.0.0",
+  "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
+  "main": "index.html",
+  "scripts": {
+    "serve": "live-server ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasschmedtmann/advanced-css-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasschmedtmann/advanced-css-course/issues"
+  },
+  "homepage": "https://github.com/jonasschmedtmann/advanced-css-course#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^4.12.0",
+    "prettier": "^1.18.2"
+  }
+}
