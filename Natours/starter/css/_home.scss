@@ -17,11 +17,7 @@ $skew: 7deg;
 
 .section-features {
   padding: 20rem 0;
-  background-image: linear-gradient(
-      to right bottom,
-      rgba($color-primary-light, 0.8),
-      rgba($color-primary-dark, 0.8)
-    ),
+  background-image: linear-gradient(to right bottom, rgba($color-primary-light, 0.8), rgba($color-primary-dark, 0.8)),
     url(../img/nat-4.jpg);
   background-size: cover;
   background-position: top;
@@ -46,20 +42,11 @@ $skew: 7deg;
 
 .section-book {
   padding: 15rem 0;
-  background-image: linear-gradient(
-    to right bottom,
-    $color-primary-light,
-    $color-primary-dark
-  );
+  background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
 }
 
 .book {
-  background-image: linear-gradient(
-      105deg,
-      rgba($color-white, 0.9) 50%,
-      transparent 50%
-    ),
-    url("../img/nat-10.jpg");
+  background-image: linear-gradient(105deg, rgba($color-white, 0.9) 50%, transparent 50%), url("../img/nat-10.jpg");
   background-size: 100%;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba($color-black, 0.2);
@@ -205,11 +192,7 @@ $skew: 7deg;
     height: 10rem;
 
     display: inline-block;
-    background-image: linear-gradient(
-      to right,
-      $color-primary-light,
-      $color-primary-dark
-    );
+    background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
     -webkit-background-clip: text;
   }
 
@@ -248,27 +231,15 @@ $card-height: 53rem;
       transform: rotateY(180deg);
 
       &-1 {
-        background: linear-gradient(
-          to right bottom,
-          $color-secondary-light,
-          $color-secondary-dark
-        );
+        background: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark);
       }
 
       &-2 {
-        background: linear-gradient(
-          to right bottom,
-          $color-primary-light,
-          $color-primary-dark
-        );
+        background: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark);
       }
 
       &-3 {
-        background: linear-gradient(
-          to right bottom,
-          $color-tertiary-light,
-          $color-tertiary-dark
-        );
+        background: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark);
       }
     }
   }
@@ -291,27 +262,15 @@ $card-height: 53rem;
     clip-path: polygon(0 0, 100% 0%, 100% 92%, 0% 100%);
 
     &--1 {
-      background-image: linear-gradient(
-          to right bottom,
-          $color-secondary-light,
-          $color-secondary-dark
-        ),
+      background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark),
         url(../img/nat-5.jpg);
     }
     &--2 {
-      background-image: linear-gradient(
-          to right bottom,
-          $color-primary-light,
-          $color-primary-dark
-        ),
+      background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark),
         url(../img/nat-6.jpg);
     }
     &--3 {
-      background-image: linear-gradient(
-          to right bottom,
-          $color-tertiary-light,
-          $color-tertiary-dark
-        ),
+      background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark),
         url(../img/nat-7.jpg);
     }
   }

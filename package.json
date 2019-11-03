@@ -4,7 +4,8 @@
   "description": "This repo contains starter files and the finished project files for all the projects contained in the course.",
   "main": "index.html",
   "scripts": {
-    "serve": "live-server ."
+    "serve": "live-server .",
+    "prettier": "prettier **/*.scss **/*.html --write"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,8 @@
     "live-server": "^1.2.1",
     "node-sass": "^4.12.0",
     "prettier": "^1.18.2"
+  },
+  "prettier": {
+    "printWidth": 120
   }
 }
