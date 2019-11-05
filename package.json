@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "serve": "live-server .",
-    "prettier": "prettier **/*.scss **/*.html --write"
+    "prettier": "prettier **/*.scss **/*.html --write",
+    "sass": "node-sass Natours/starter/css/style.scss Natours/starter/css/style.css -w"
   },
   "repository": {
     "type": "git",
